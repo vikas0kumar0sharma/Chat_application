@@ -1,1 +1,1 @@
-# Chat_application using websockets
+# Chat app 💬 using websockets (Nodejs, Express & Socket.io)
